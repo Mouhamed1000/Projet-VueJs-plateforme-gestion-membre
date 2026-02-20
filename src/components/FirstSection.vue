@@ -14,6 +14,24 @@
         
             <button class="border btn text-dark bg-white fs-6 m-4" type="submit">Se connecter</button>
 
+            <div class="d-flex flex-row w-100 justify-content-between">
+                <div class="d-flex flex-column">
+                    <span class="text-green">500+</span>
+                    <span class="text-dark">Jeunes inscrits</span>
+                </div>
+
+                <div class="d-flex flex-column">
+                    <span>50+</span>
+                    <span class="text-dark">Programmes</span>
+                </div>
+
+                 <div class="d-flex flex-column">
+                    <span>98%</span>
+                    <span class="text-dark">Satisfaction</span>
+                </div>
+
+            </div>
+
         </div> 
 
     </section>
