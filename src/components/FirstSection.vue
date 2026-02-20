@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="d-flex flex-column">
-                    <span class="fs-5 text-black-50">50+</span>
+                    <span style="color: #8B4513;" class="fs-5">50+</span>
                     <span class="text-dark">Programmes</span>
                 </div>
 
