@@ -16,17 +16,17 @@
 
             <div class="d-flex flex-row w-100 justify-content-between">
                 <div class="d-flex flex-column">
-                    <span class="text-green">500+</span>
+                    <span class="text-success fs-5">500+</span>
                     <span class="text-dark">Jeunes inscrits</span>
                 </div>
 
                 <div class="d-flex flex-column">
-                    <span>50+</span>
+                    <span class="fs-5 text-black-50">50+</span>
                     <span class="text-dark">Programmes</span>
                 </div>
 
                  <div class="d-flex flex-column">
-                    <span>98%</span>
+                    <span class="text-danger fs-5">98%</span>
                     <span class="text-dark">Satisfaction</span>
                 </div>
 
