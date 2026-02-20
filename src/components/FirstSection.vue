@@ -31,9 +31,11 @@
                 </div>
 
             </div>
-
         </div> 
 
     </section>
+
+    <img src="../../public/image.jpeg" class="mt-5 mt-lg-0 img-fluid rounded shadow d-block mx-auto"  alt="Description">
+
 
 </template>
