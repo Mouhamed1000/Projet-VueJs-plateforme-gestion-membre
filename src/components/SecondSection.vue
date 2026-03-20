@@ -13,11 +13,13 @@
         </div>
 
          <div class="p-3 col-12 col-md-3 shadow rounded m-3">
+            <font-awesome-icon icon="arrow-trend-up" size="2xl" class="text-warning"/>
             <h5 class="text-black mt-4 mb-4">Suivi & Statistiques</h5>
             <p class="text-dark">Tableaux de bord intuitifs avec filtres avancés et recherche pour suivre la progression de vos membres.</p>
         </div>
 
          <div class="p-3 col-12 col-md-3 shadow rounded m-3">
+            <font-awesome-icon icon="award" size="2xl" class="text-danger"/>
             <h5 class="text-black mt-4 mb-4">Développement des Talents</h5>
             <p class="text-dark">Programmes de formation, mentorat et opportunités pour développer les compétences des jeunes.</p>
         </div>
