@@ -1,10 +1,10 @@
 <template>
 
-    <h2 style="margin-top: 60px;" class="text-center text-black">Fonctionnalités Principales</h2>
+    <h2 style="margin-top: 100px;" class="text-center text-black">Fonctionnalités Principales</h2>
 
     <p class="text-dark text-center fs-5 mt-4">Tout ce dont vous avez besoin pour gérer efficacement votre consortium </p>
 
-    <section class="mt-5 mb-5 d-flex flex-wrap w-100 justify-content-around">
+    <section class="d-flex flex-wrap w-100 justify-content-around" style="margin-bottom: 130px; margin-top:80px;">
 
         <div class="p-3 col-12 col-md-3 shadow rounded m-3">
             <font-awesome-icon icon="users" size="2xl" class="text-success"/>
@@ -25,5 +25,7 @@
         </div>
 
     </section>
+
+    <img src="../../public/secondImage.jpeg" class="mb-5 mt-lg-0 img-fluid rounded shadow d-block mx-auto"  alt="Description">
 
 </template>

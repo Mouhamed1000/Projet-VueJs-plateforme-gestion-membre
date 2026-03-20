@@ -14,7 +14,7 @@
         
             <button class="border btn text-dark bg-white fs-6 m-4" type="submit">Se connecter</button>
 
-            <div class="d-flex flex-row w-100 justify-content-between mt-4 mb-5">
+            <div class="d-flex flex-row w-100 justify-content-between mt-4" style="margin-bottom: 100px;">
 
                 <div class="d-flex flex-column">
                     <span class="text-success fs-4 fw-bold">500+</span>
@@ -36,7 +36,7 @@
 
     </section>
 
-    <img src="../../public/image.jpeg" class="mt-lg-0 img-fluid rounded shadow d-block mx-auto"  alt="Description">
+    <img src="../../public/firstImage.jpeg" class="mt-lg-0 img-fluid rounded shadow d-block mx-auto"  alt="Description">
 
 
 </template>
