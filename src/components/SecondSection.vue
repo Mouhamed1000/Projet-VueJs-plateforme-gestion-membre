@@ -4,21 +4,20 @@
 
     <p class="text-dark text-center fs-5 mt-4">Tout ce dont vous avez besoin pour gérer efficacement votre consortium </p>
 
-    <section class="mt-5 mb-5 d-flex justify-content-around">
+    <section class="mt-5 mb-5 d-flex flex-wrap w-100 justify-content-around">
 
-        <div class="p-3 w-25 shadow rounded">
+        <div class="p-3 col-12 col-md-3 shadow rounded m-3">
             <font-awesome-icon icon="users" size="2xl" class="text-success"/>
-
             <h5 class="text-black mt-4 mb-4">Gestion des membres</h5>
             <p class="text-dark">Créez, modifiez et gérez facilement les profils des jeunes membres. Suivi complet des compétences et des parcours.</p>
         </div>
 
-         <div class="p-3 w-25 shadow rounded">
+         <div class="p-3 col-12 col-md-3 shadow rounded m-3">
             <h5 class="text-black mt-4 mb-4">Suivi & Statistiques</h5>
             <p class="text-dark">Tableaux de bord intuitifs avec filtres avancés et recherche pour suivre la progression de vos membres.</p>
         </div>
 
-         <div class="p-3 w-25 shadow rounded">
+         <div class="p-3 col-12 col-md-3 shadow rounded m-3">
             <h5 class="text-black mt-4 mb-4">Développement des Talents</h5>
             <p class="text-dark">Programmes de formation, mentorat et opportunités pour développer les compétences des jeunes.</p>
         </div>
