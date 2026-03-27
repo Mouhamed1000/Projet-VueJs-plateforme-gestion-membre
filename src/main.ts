@@ -16,6 +16,9 @@ import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 
 import { fas } from '@fortawesome/free-solid-svg-icons'
 
+//Importation icône bootstrap
+import 'bootstrap-icons/font/bootstrap-icons.css'
+
 //Ajout des icônes à la librairie 
 library.add(fas) 
 

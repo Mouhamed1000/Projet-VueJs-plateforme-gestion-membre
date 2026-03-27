@@ -1,9 +1,10 @@
 <script setup lang="ts">
 
-      import AppNavbar from './components/AppNavBar.vue'
+  import AppNavbar from './components/AppNavBar.vue'
 
-      import FirstSection from './components/FirstSection.vue'
-import SecondSection from './components/SecondSection.vue';
+  import FirstSection from './components/FirstSection.vue'
+  import SecondSection from './components/SecondSection.vue';
+  import ThirdSection from './components/ThirdSection.vue';
 
 </script>
 
@@ -16,6 +17,8 @@ import SecondSection from './components/SecondSection.vue';
     <FirstSection />
 
     <SecondSection />
+
+    <ThirdSection />
    
   </div>
 
