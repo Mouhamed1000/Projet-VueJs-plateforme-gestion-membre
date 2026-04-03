@@ -6,6 +6,7 @@
   import FeatureSection from './components/FeatureSection.vue';
   import AboutSection from './components/AboutSection.vue';
   import ContactSection from './components/ContactSection.vue';
+  import FooterSection from './components/FooterSection.vue';
 
 </script>
 
@@ -22,6 +23,8 @@
     <AboutSection />
 
     <ContactSection />
+
+    <FooterSection />
    
   </div>
 
