@@ -2,9 +2,10 @@
 
   import AppNavbar from './components/AppNavBar.vue'
 
-  import FirstSection from './components/FirstSection.vue'
-  import SecondSection from './components/SecondSection.vue';
-  import ThirdSection from './components/ThirdSection.vue';
+  import HomeSection from './components/HomeSection.vue';
+  import FeatureSection from './components/FeatureSection.vue';
+  import AboutSection from './components/AboutSection.vue';
+  import ContactSection from './components/ContactSection.vue';
 
 </script>
 
@@ -14,11 +15,13 @@
 
     <AppNavbar />
 
-    <FirstSection />
+    <HomeSection />
 
-    <SecondSection />
+    <FeatureSection />
 
-    <ThirdSection />
+    <AboutSection />
+
+    <ContactSection />
    
   </div>
 

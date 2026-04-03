@@ -14,9 +14,9 @@
 
     <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active text-dark" aria-current="page" href="#">Fonctionnalités</a>
-        <a class="nav-link text-dark" href="#">À propos</a>
-        <a class="nav-link text-dark" href="#">Contact</a>
+        <a class="nav-link active text-dark" aria-current="page" href="#fonctionnalites">Fonctionnalités</a>
+        <a class="nav-link text-dark" href="#apropos">À propos</a>
+        <a class="nav-link text-dark" href="#contact">Contact</a>
         <a class="nav-link disabled text-black" aria-disabled="true">Connexion</a>
         <button class="btn text-white bg-success" type="submit">Inscription</button>
       </div>

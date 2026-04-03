@@ -1,6 +1,8 @@
 <template>
+    
+    <div id="fonctionnalites"></div>
 
-    <h2 style="margin-top: 100px;" class="text-center text-black">Fonctionnalités Principales</h2>
+    <h2 style="margin-top: 100px;" class="text-center text-black" id="fonctionnalites">Fonctionnalités Principales</h2>
 
     <p class="text-dark text-center fs-5 mt-4">Tout ce dont vous avez besoin pour gérer efficacement votre consortium </p>
 
@@ -25,7 +27,5 @@
         </div>
 
     </section>
-
-    <img src="../../public/secondImage.jpeg" class="mb-5 mt-lg-0 img-fluid rounded shadow d-block mx-auto"  alt="Description">
 
 </template>

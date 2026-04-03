@@ -38,5 +38,4 @@
 
     <img src="../../public/firstImage.jpeg" class="mt-lg-0 img-fluid rounded shadow d-block mx-auto"  alt="Description">
 
-
 </template>

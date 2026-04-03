@@ -1,5 +1,7 @@
 <template>
 
+    <img src="../../public/secondImage.jpeg" id="apropos" class="mb-5 mt-lg-0 img-fluid rounded shadow d-block mx-auto"  alt="Description">
+
     <section style = "margin-top: 100px;" class="mx-4 text-dark ">
         
         <h2 class="fw-bold fs-3"> À propos du Consortium </h2>
@@ -24,11 +26,5 @@
         </div>
     
     </section>
-
-    <article  style = "margin-top: 150px; padding-bottom:50px; padding-top:50px"  class="bg-success text-center">
-        <h3 class="fs-2 fw-bold">Prêt à rejoindre le mouvement </h3>
-        <p class="mt-5 fs-3"> Inscrivez-vous dès maintenant et commencez votre parcours avec le Consortium Jeunesse Sénégal</p>
-        <button class="p-2 mt-5 btn text-success bg-white" type="submit">Créer un compte gratuitement -></button>
-    </article>
 
 </template>
