@@ -3,7 +3,7 @@
     <footer style="padding-bottom: 60px; padding-top: 60px; background-color: var(--bs-gray-900);" 
             class="text-white d-flex flex-column justify-content-around">
 
-        <div class="text-white d-flex justify-content-around flex-wrap gap-3">
+        <div class="text-white d-flex justify-content-around flex-wrap gap-5">
 
             <div class="d-flex flex-column gap-3">
                 <div>
