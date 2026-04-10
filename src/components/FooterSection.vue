@@ -3,32 +3,35 @@
     <footer style="padding-bottom: 60px; padding-top: 60px; background-color: var(--bs-gray-900);" 
             class="text-white d-flex flex-column justify-content-around">
 
-        <div class="text-white d-flex justify-content-around">
+        <div class="text-white d-flex justify-content-around flex-wrap gap-3">
 
-            <div class="d-flex flex-column">
-                <a href="#" class="text-white text-decoration-none mb-3">CJS</a>
+            <div class="d-flex flex-column gap-3">
+                <div>
+                    <img src="../../public/logo.png" width="50px"/>
+                    <a href="#" class="text-white text-decoration-none">CJS</a>
+                </div>
                 <a href="#" class="text-white text-opacity-75 text-decoration-none">Consortium Jeunesse Sénégal - Ensemble pour l'avenir</a>
             </div>
 
-            <div class="d-flex flex-column justify-content-around">
-                <a href="#" class="text-white text-decoration-none mb-3">Liens rapides</a>
-                <a href="#" class="text-white text-opacity-75 text-decoration-none mb-3">Fonctionnalités</a>
-                <a href="#" class="text-white text-opacity-75 text-decoration-none mb-3">À propos</a>
-                <a href="#" class="text-white text-opacity-75 text-decoration-none">Contact</a>
+            <div class="d-flex flex-column justify-content-around gap-3">
+                <a href="#" class="text-white text-decoration-none">Liens rapides</a>
+                <a href="#fonctionnalites" class="text-white text-opacity-75 text-decoration-none">Fonctionnalités</a>
+                <a href="#apropos" class="text-white text-opacity-75 text-decoration-none">À propos</a>
+                <a href="#contact" class="text-white text-opacity-75 text-decoration-none">Contact</a>
 
             </div>
 
-            <div class="d-flex flex-column justify-content-around">
-                <a href="#" class="text-white text-decoration-none mb-3">Ressources</a>
-                <a href="#" class="text-white text-opacity-75 text-decoration-none mb-3">Documentation</a>
-                <a href="#" class="text-white text-opacity-75 text-decoration-none mb-3">Support</a>
+            <div class="d-flex flex-column justify-content-around gap-3">
+                <a href="#" class="text-white text-decoration-none">Ressources</a>
+                <a href="#" class="text-white text-opacity-75 text-decoration-none">Documentation</a>
+                <a href="#" class="text-white text-opacity-75 text-decoration-none">Support</a>
                 <a href="#" class="text-white text-opacity-75 text-decoration-none">Blog</a>
             </div>
 
-            <div class="d-flex flex-column justify-content-around">
-                <a href="#" class="text-white text-decoration-none mb-3">Contact</a>
-                <a href="#" class="text-white text-opacity-75 text-decoration-none mb-3">Dakar, Sénégal</a>
-                <a href="#" class="text-white text-opacity-75 text-decoration-none mb-3">contact@cjs.sn</a>
+            <div class="d-flex flex-column justify-content-around gap-3">
+                <a href="#" class="text-white text-decoration-none">Contact</a>
+                <a href="#" class="text-white text-opacity-75 text-decoration-none">Dakar, Sénégal</a>
+                <a href="#" class="text-white text-opacity-75 text-decoration-none">contact@cjs.sn</a>
                 <a href="#" class="text-white text-opacity-75 text-decoration-none">+221 33 123 45 67</a>
             </div>
 
